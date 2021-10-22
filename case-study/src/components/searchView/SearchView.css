@@ -1,0 +1,40 @@
+#body {
+  width: 100%;
+  
+}
+.showList {
+  list-style-type: none;
+  padding-left: 0px;
+  
+  
+}
+.ans{
+  display: flex;
+  padding-left: 100px;
+  font-size:20px;
+  color: #707070;
+  font-family: Segoe UI;
+  /* color: green; */
+  text-align: justify;
+  
+}
+#font
+{
+  padding-left: 40px;
+  color: #707070;
+  opacity: 100%;
+  font-size: 24px;
+  font-family: Segoe UI;
+  font: regular;
+  
+  /* color: cornflowerblue; */
+
+}
+
+#icon{
+  position: relative;
+  /* bottom: 45px; */
+  left: 50px;
+  color: green;
+  font-size: 20px;
+}

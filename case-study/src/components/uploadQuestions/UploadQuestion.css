@@ -1,0 +1,78 @@
+p{
+    font-size: 24px;
+    text-align: left;
+}
+
+
+.container1{
+    margin-top: 0px;
+}
+.header{
+    margin-top: 50px;
+height: 40px;
+/* font: normal normal bold 40px/58px Sitka Banner; */
+font-family: normal normal bold ;
+letter-spacing: 0px;
+color: #086288;
+opacity: 1;
+}
+
+.btn-icon-plus{
+    border-radius: 60%;
+    margin-right: 10px;
+    background-color: #FAA81D;
+    border: 1px solid white;
+}
+.fa-plus,.fa-trash{
+    color: white;
+    /* font-size: 10px; */
+}
+.btn-icon-trash{
+    /* border-radius: 60%; */
+    margin-right: 10px;
+    background-color: #FAA81D;
+    
+    border: 1px solid #FAA81D;
+}
+#btn-text-add{
+    background-color: #FAA81D;
+    border: none;
+    
+}
+#btn-text-add1{
+    background-color: #FAA81D;
+    border: none;
+    margin-top: 150px;
+    float: right;
+}
+.g-3{
+    margin-top: 2px;
+}
+
+#errormsg  {
+    padding-right: 165px;
+    font-size: 10px;
+  
+  }
+  #errormessage{
+  
+    padding-right: 192px;
+    font-size: 11px;
+  }
+  
+  #errorChar{
+    font-size: 11px;
+    padding-right: 98px;
+  }
+  #errormessageques{
+    font-size: 11px;
+    padding-right: 678px;
+  }
+#qError{
+    font-size: 11px;
+    padding-right: 840px;
+}
+#dError{
+    font-size: 11px;
+    padding-right: 155px;
+}
